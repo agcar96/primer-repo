@@ -1,4 +1,4 @@
-nombre = "Alejandrito"
+nombre = "Alejandrooooo"
 apellido = "Garcia"
 edad = 27
 
